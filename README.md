@@ -2,9 +2,13 @@
 
 ### 과제1: counter app 만들기
 ![과제1 - counter app 만들기](https://user-images.githubusercontent.com/87893624/176339529-6f848cea-fbb1-41ee-960b-21b4c5096d0c.gif)
+![image](https://user-images.githubusercontent.com/87893624/176342188-0a528e2b-e3c0-4ec5-a89e-298630c7ec13.png)
+
 
 #### ⚠ 주의사항
 - **styled-components** 를 이용해 style을 설정해주세요. 
+- **flex**를 이용한 **화면 정가운데** 배치
+- 색과 너비는 정확하지 않아도 괜찮습니다.
 
 #### 📚 참고 링크
 - [React 공식 문서](https://ko.reactjs.org/)   
