@@ -1,8 +1,25 @@
 # 과제를 통한 리액트 연습하기
 
-### 과제1: counter app 만들기
+### ⚠ 과제 제출 방법
+
+이 레포를 fork한 후 main 브랜치에 자신의 이름으로 react 프로젝트를 생성(폴더 생성) 후 과제를 수행하고 pr을 보내주세요.
+
+---
+
+
+### 과제1: Counter App 만들기
 ![과제1 - counter app 만들기](https://user-images.githubusercontent.com/87893624/176339529-6f848cea-fbb1-41ee-960b-21b4c5096d0c.gif)
 ![image](https://user-images.githubusercontent.com/87893624/176342188-0a528e2b-e3c0-4ec5-a89e-298630c7ec13.png)
+
+
+---
+
+
+### 과제2: Todo List App 만들기
+작성 중
+
+
+---
 
 
 #### ⚠ 주의사항
