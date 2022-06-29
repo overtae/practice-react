@@ -4,7 +4,7 @@
 ![과제1 - counter app 만들기](https://user-images.githubusercontent.com/87893624/176339529-6f848cea-fbb1-41ee-960b-21b4c5096d0c.gif)
 
 #### ⚠ 주의사항
-- styled-components 를 이용해 style을 설정해주세요. 
+- **styled-components** 를 이용해 style을 설정해주세요. 
 
 #### 📚 참고 링크
 - [React 공식 문서](https://ko.reactjs.org/)   
