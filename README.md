@@ -16,7 +16,16 @@
 
 
 ### 과제2: Todo List App 만들기
+#### Todo List를 작성과 삭제할 수 있는 과제
 작성 중
+
+---
+
+
+### 과제3: Color Palette App 만들기
+#### [The Color API](https://www.thecolorapi.com/) 통해서 color palette 만드는 과제
+작성 중
+
 
 
 ---
