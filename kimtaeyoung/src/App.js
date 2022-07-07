@@ -1,5 +1,22 @@
-import Counter from "./components/Counter";
-import styled from "styled-components";
+import styled, { ThemeProvider } from "styled-components";
+import TodoBoard from "./components/TodoBoard";
+
+function App() {
+  return (
+    <Container>
+      <ThemeProvider theme={theme}>
+        <TodoBoard />
+      </ThemeProvider>
+    </Container>
+  );
+}
+
+export default App;
+
+const theme = {
+  main: "royalblue",
+  dark: "navy",
+};
 
 const Container = styled.div`
   height: 100vh;
@@ -7,13 +24,3 @@ const Container = styled.div`
   align-items: center;
   justify-content: center;
 `;
-
-function App() {
-  return (
-    <Container>
-      <Counter />
-    </Container>
-  );
-}
-
-export default App;
