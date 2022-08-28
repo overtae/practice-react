@@ -36,7 +36,7 @@ function TodoBoard() {
         <input onChange={onChange} value={todo} type="text" placeholder="할 일을 입력하세요." />
         <button>추가</button>
       </Form>
-      <h1>Todo List</h1>
+      <h1>📝 Todo List</h1>
       <ScrollBox>
         {todoList.map((item, index) => (
           <TodoItem key={index} index={index} item={item} onDelete={onDelete} />
